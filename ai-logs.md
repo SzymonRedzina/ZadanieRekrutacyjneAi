@@ -1,12 +1,9 @@
 Link do czatu: https://gemini.google.com/share/8e07dd53b2cb
-.
-.
-.
-.
+
+
+
+
 Stwórz nowoczesny, dostępny i uniwersalny komponent Autocomplete, który można wykorzystać m.in. do:
-
-
-
 wyboru tagów
 
 wyboru jednego elelmntu
